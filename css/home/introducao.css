@@ -41,6 +41,10 @@
 
 @media (max-width: 800px){
 
+  .introducao{
+    margin-top: 20px;
+  }
+
   .introducao-bg{
     background: var();
     padding-top: 40px;
