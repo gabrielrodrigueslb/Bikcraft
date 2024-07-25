@@ -69,3 +69,9 @@
     height: 300px;
   } 
 }
+
+@media (max-width: 360px){
+  .introducao{
+    margin-top: 0px;
+  }
+}
