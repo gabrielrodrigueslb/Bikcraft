@@ -4,7 +4,8 @@
 @import "./global/header.css";
 @import "./home/introducao.css";
 @import "./util/componentes.css";
-@import "./bicicletas/bicicletas-lista.css";
-@import "./bicicletas/tecnologia.css";
+@import "./home/bicicletas-lista.css";
+@import "./home/tecnologia.css";
+@import "./home/parceiros.css";
 
 
