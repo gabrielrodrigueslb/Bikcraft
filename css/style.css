@@ -16,3 +16,10 @@
 @import "./home/seguros.css";
 @import "./global/footer.css";
 
+/* termos */
+@import "./termos/termos.css";
+
+@import "./bicicletas/bicicletas.css";
+
+
+
