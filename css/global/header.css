@@ -44,6 +44,7 @@
 
 .header{
   margin-top: 25px;
+  padding: 0px 25px;
 }
 
   .header-menu{
@@ -68,6 +69,7 @@
 
   .header{
     margin-top: 15px;
+    flex-direction: column;
   }
 
   .header-menu{
