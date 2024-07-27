@@ -9,7 +9,7 @@
 
 .header-bg{
  background: var(--cor-12);
- padding: 20px 0px;
+ padding: 5px 0px;
 }
 
 .header-menu{
@@ -38,6 +38,13 @@
 .header-menu a:hover:after{
   width: 100%;
 
+}
+
+
+@media(max-width:1400px){
+.header{
+  padding: 30px;
+}
 }
 
 @media(max-width:800px){
