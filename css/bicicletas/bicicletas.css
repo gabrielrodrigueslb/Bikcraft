@@ -72,3 +72,21 @@ gap: 16px;
   width: 24px;
   margin-right: 8px;
 }
+
+@media(max-width:800px){
+  #bicicletas .header{
+    padding: 20px 0;
+  }
+  
+  .bicicletas{
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 40px;
+    padding: 60px 40px;
+  }
+
+  #bicicletas .titulo {
+    padding: 20px 30px;
+
+  }
+}
