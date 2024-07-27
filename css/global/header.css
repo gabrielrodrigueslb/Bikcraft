@@ -243,19 +243,18 @@
   }
 }
 
-@media(max-width:600px){
+.header{
+  margin-top: 15px;
+  flex-direction: column;
+}
 
-  .header{
-    margin-top: 15px;
-    flex-direction: column;
-  }
-
-  .header-menu{
-  gap: 12px;
+.header-menu{
+gap: 12px;
 }
 
 .header-menu a{
-  padding:8px 12px;
-  font-size: 14px;
+padding:8px 12px;
+font-size: 14px;
+}
 }
 }
