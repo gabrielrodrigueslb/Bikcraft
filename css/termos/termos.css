@@ -14,3 +14,9 @@
   margin-bottom: 24px;
   max-width: 65ch;
 }
+
+@media (max-width:1250px){
+  .termos{
+    margin: 0 30px;
+  }
+}

@@ -49,6 +49,12 @@
   max-width: 80ch;
 }
 
+@media (max-width:1250px){
+  .perguntas{
+    margin: 0 30px;
+  }
+}
+
 @media(max-width: 800px){
   .perguntas{
     padding: 60px 0px;
