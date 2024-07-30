@@ -135,3 +135,9 @@
     padding: 80px 30px;
   }
 }
+
+@media (max-width:400px){
+  #home .seguros-index{
+    font-size: 0.85rem;
+  }
+}
