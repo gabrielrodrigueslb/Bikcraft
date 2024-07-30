@@ -124,8 +124,8 @@ gap: 16px;
   }
 
 .preco{
- font-size: 0.5fr;
-
+ font-size: 12px;
+ padding: 8px 8px 8px 8px;
 }
   
   .bicicletas-conteudo{
