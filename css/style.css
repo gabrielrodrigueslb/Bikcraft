@@ -44,3 +44,7 @@
 /* orçamento */
 
 @import "./orcamento/orcamentos.css";
+
+body{
+    align-items: center;
+}
